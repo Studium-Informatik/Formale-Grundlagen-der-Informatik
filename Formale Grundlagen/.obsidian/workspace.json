@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14ed695ed69c9057",
+        "id": "be31826e1217b0e0",
         "type": "tabs",
         "children": [
           {
-            "id": "b282cb4f7db31665",
+            "id": "8c7060a469c25058",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b282cb4f7db31665",
+  "active": "8c7060a469c25058",
   "lastOpenFiles": [
+    "VL/01.md",
     "VL/Vorlesung 01.md",
     "VL"
   ]
